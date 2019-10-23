@@ -205,7 +205,7 @@ This is basic logic, which assumes the computer will always choose rock.
 
 ### Random numbers 
 
-It would be interesting if the computer made random choices, and not just rock the entire time. To do this we can make use of the random function built into JavaScript. This will produce a random number. We can then convert this to a random computer choice e.g. using `if\else`
+The game would more be interesting if the computer made random choices, and not just rock. To do this we can make use of the random function built into JavaScript. This will produce a random number. We can then convert this to a random computer choice of rock, paper, or scissors.
 
 
 ##### TL;DR
@@ -216,9 +216,9 @@ We can use `Math.floor(Math.random() * 3)` to produce a random number of either 
 const random = Math.floor(Math.random() * 3)
 ```
 
-##### The explination
+##### The explanation
 
-To get a random number between from 0 to 1 we use `Math.random()`. This is inclusive of 0 but exclusive of one. Try using `Math.random()` in the browsers console:
+To get a random number between from 0 to 1 we use `Math.random()`. This is inclusive of 0 but exclusive of 1. Try using `Math.random()` in the browsers console:
 
 ```
 Math.random()
@@ -283,9 +283,9 @@ const random = Math.floor(Math.random() * 3)
 
 ### Random computer choice
 
-Using the code above, produce a random number from 0 to 3 (exclusive). Using `if\else` statements convert that random number into a players choice of rock, paper or scissors.
+Using the code above, produce a random number from 0 to 3 (exclusive of 3). Using `if\else` statements convert that random number into a players choice of rock, paper or scissors.
 
-## Complete implementing the game
+## Complete the game (simples)
 
 Now you have enough information, knowledge, skill, and self perseverance to finish the rock paper scissors game - good luck :)
 

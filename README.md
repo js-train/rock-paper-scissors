@@ -136,7 +136,7 @@ Add the javascript to show a hard coded (static) computer choice of `rock`
 
 ## If Statements 
 
-Next we will use `if` statements. To understand these please read the following:
+Next we will use `if` statements. To understand these please read at least one of the following:
 
 - https://www.w3schools.com/js/js_if_else.asp
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
@@ -146,6 +146,7 @@ Next we will use `if` statements. To understand these please read the following:
 To implement this game we also need to know about logical operators. 
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators
+
 
 hint:
 

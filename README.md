@@ -158,7 +158,6 @@ hint:
 
 ```
 
-- 
 
 *If* these pages don't make sense, please ask for a bit of help.
 
